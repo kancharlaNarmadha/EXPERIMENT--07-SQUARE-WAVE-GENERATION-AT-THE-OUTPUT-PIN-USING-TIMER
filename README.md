@@ -294,11 +294,12 @@ FREQUENCY = 62.5Hz
 
 ##FOR PULSE AT 900
 
-![Uploading mic 3.1.png…]()
 
 
 
 
+
+![mic 3 1](https://github.com/kancharlaNarmadha/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559316/2087cf0b-f1ec-4aa9-b1d3-d77912dbdb2d)
 
 
 TON = 14
