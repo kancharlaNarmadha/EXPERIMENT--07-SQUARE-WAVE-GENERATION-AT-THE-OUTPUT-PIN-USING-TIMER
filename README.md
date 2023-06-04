@@ -259,7 +259,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 
 
-##FOR PULSE AT 500
+
+
+
+## FOR PULSE AT 500
+
 
 ![mic 1](https://github.com/kancharlaNarmadha/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559316/fc320ea6-f93e-4b23-8718-a2802ffabe6c)
 
@@ -275,7 +279,12 @@ FREQUENCY = 62.5Hz
 
 
 
-##FOR PULSE AT 800
+
+
+## FOR PULSE AT 800
+
+
+
 ![mic 2](https://github.com/kancharlaNarmadha/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559316/72f16da5-36a8-45a8-a534-6258f1841313)
 
 
@@ -292,7 +301,10 @@ FREQUENCY = 1/(TOTAL TIME)
 FREQUENCY = 62.5Hz
 
 
-##FOR PULSE AT 900
+
+
+
+## FOR PULSE AT 900
 
 
 
